@@ -1,0 +1,8 @@
+{
+  "name": "ShouldIGo",
+  "app_id": "26695608",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
