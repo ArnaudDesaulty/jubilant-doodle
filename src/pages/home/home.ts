@@ -5,8 +5,8 @@ import { NavController } from 'ionic-angular';
   selector: 'page-home',
   templateUrl: 'home.html'
 })
-export class HomePage {
-
+export class Home {
+  public title = "ShouldIGo"
   constructor(public navCtrl: NavController) {
 
   }
